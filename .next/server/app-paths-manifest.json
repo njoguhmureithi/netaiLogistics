@@ -1,0 +1,13 @@
+{
+  "/api/storefront/promo-popup/route": "app/api/storefront/promo-popup/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/login/page": "app/login/page.js",
+  "/api/admin/analytics/route": "app/api/admin/analytics/route.js",
+  "/api/admin/orders/route": "app/api/admin/orders/route.js",
+  "/api/admin/products/route": "app/api/admin/products/route.js",
+  "/api/admin/customers/route": "app/api/admin/customers/route.js",
+  "/api/admin/users/route": "app/api/admin/users/route.js",
+  "/(store)/page": "app/(store)/page.js",
+  "/admin/users/page": "app/admin/users/page.js",
+  "/admin/page": "app/admin/page.js"
+}
