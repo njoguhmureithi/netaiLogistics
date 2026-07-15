@@ -12,7 +12,7 @@ async function main() {
     where: { email: "admin@netailogistics.com" },
     update: { role: "admin" },
     create: {
-      email: "john@doe.com",
+      email: "admin@netailogistics.com",
       name: "Admin",
       passwordHash: adminPasswordHash,
       role: "admin",
